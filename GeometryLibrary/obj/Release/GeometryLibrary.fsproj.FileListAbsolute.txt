@@ -1,0 +1,7 @@
+C:\Users\Роман\Documents\GitHub\GeomBuilder\GeometryLibrary\bin\Release\GeometryLibrary.XML
+C:\Users\Роман\Documents\GitHub\GeomBuilder\GeometryLibrary\bin\Release\GeometryLibrary.dll
+C:\Users\Роман\Documents\GitHub\GeomBuilder\GeometryLibrary\bin\Release\GeometryLibrary.pdb
+C:\Users\Роман\Documents\GitHub\GeomBuilder\GeometryLibrary\bin\Release\FSharp.Core.dll
+C:\Users\Роман\Documents\GitHub\GeomBuilder\GeometryLibrary\bin\Release\FSharp.Core.xml
+C:\Users\Роман\Documents\GitHub\GeomBuilder\GeometryLibrary\obj\Release\GeometryLibrary.dll
+C:\Users\Роман\Documents\GitHub\GeomBuilder\GeometryLibrary\obj\Release\GeometryLibrary.pdb
