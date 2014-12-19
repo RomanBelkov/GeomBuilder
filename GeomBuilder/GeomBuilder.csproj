@@ -80,7 +80,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\GeometryLibrary\GeometryLibrary.fsproj">
-      <Project>{2ac8022e-2b26-4f8b-88e4-4fd2b950d885}</Project>
+      <Project>{6fd313ae-e153-4f90-8f8b-7d6ac2a2074c}</Project>
       <Name>GeometryLibrary</Name>
     </ProjectReference>
   </ItemGroup>

@@ -5,9 +5,14 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeomBuilder", "GeomBuilder\GeomBuilder.csproj", "{2111496E-CF1F-4D7C-AE03-7D658AF7010B}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "GeometryLibrary", "GeometryLibrary\GeometryLibrary.fsproj", "{2AC8022E-2B26-4F8B-88E4-4FD2B950D885}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Tests", "Tests\Tests.fsproj", "{3640EAE7-A31B-413A-B2DD-FD7BA36B6BA0}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Tests", "Tests\Tests.fsproj", "{C51C5ACA-86D0-4E99-A82F-3CCACA258086}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{90705B70-06E9-4F6B-B4C9-D8E10037CD32}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "GeometryLibrary", "GeometryLibrary\GeometryLibrary.fsproj", "{6FD313AE-E153-4F90-8F8B-7D6AC2A2074C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,14 +24,14 @@ Global
 		{2111496E-CF1F-4D7C-AE03-7D658AF7010B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2111496E-CF1F-4D7C-AE03-7D658AF7010B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2111496E-CF1F-4D7C-AE03-7D658AF7010B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2AC8022E-2B26-4F8B-88E4-4FD2B950D885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2AC8022E-2B26-4F8B-88E4-4FD2B950D885}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2AC8022E-2B26-4F8B-88E4-4FD2B950D885}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2AC8022E-2B26-4F8B-88E4-4FD2B950D885}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C51C5ACA-86D0-4E99-A82F-3CCACA258086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C51C5ACA-86D0-4E99-A82F-3CCACA258086}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C51C5ACA-86D0-4E99-A82F-3CCACA258086}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C51C5ACA-86D0-4E99-A82F-3CCACA258086}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3640EAE7-A31B-413A-B2DD-FD7BA36B6BA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3640EAE7-A31B-413A-B2DD-FD7BA36B6BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3640EAE7-A31B-413A-B2DD-FD7BA36B6BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3640EAE7-A31B-413A-B2DD-FD7BA36B6BA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FD313AE-E153-4F90-8F8B-7D6AC2A2074C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FD313AE-E153-4F90-8F8B-7D6AC2A2074C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FD313AE-E153-4F90-8F8B-7D6AC2A2074C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FD313AE-E153-4F90-8F8B-7D6AC2A2074C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
